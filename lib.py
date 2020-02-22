@@ -8,8 +8,8 @@ def add(a, b):
 
 
 def add1(a):
-    pass
+	Return A+1
 
 
 def sub1(a):
-    pass
+    Returna-1
